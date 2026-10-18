@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://massagemasters.co.za/sitemap.xml
